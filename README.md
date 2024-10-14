@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @weirdshxt
+- 👋 Hi, I’m Kabir Khan
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning back-end
 - 💞️ I’m looking to collaborate on my e-commerce website.
-- 📫 How to reach me @weirdsht on insta.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me? Just DM me @weirdsht on insta.
+
 
 <!---
 weirdshxt/weirdshxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
