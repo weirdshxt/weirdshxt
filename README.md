@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kabir Khan
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning back-end
+- 🌱 I’m currently learning Java DSA
 - 💞️ I’m looking to collaborate on my e-commerce website.
 - 📫 How to reach me? Just DM me @weirdsht on insta.
 
